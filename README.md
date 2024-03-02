@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonystark121&label=Profile%20views&color=0e75b6&style=flat" alt="tonystark121" /> </p>
 
+- 🔭 I’m currently working on **Online Learning Platform project**
+
 - 🌱 I’m currently learning **Devops and AWS**
 
 - 💬 Ask me about **mern stack**
 
 - 📫 How to reach me **rajeev.kumar.phe21@itbhu.ac.in**
 
-- ⚡ Fun fact **I've typed out more lines of code than I have text messages! 📱💻 #CodeOverConversations**
+- ⚡ Fun fact **📱💻 #CodeOverConversations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tonystark121&show_icons=true&locale=en&layout=compact" alt="tonystark121" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tonystark121&show_icons=true&locale=en" alt="tonystark121" /></p>
+
